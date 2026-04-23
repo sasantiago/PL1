@@ -1,0 +1,9 @@
+10:01:46.238 INFO  GCLog - PowerKitManager: initPowerKitCompat init ,powerKitTag=2895c89a-bf54-43fd-b3c5-2c3d08705740
+10:01:46.329 ERROR GCLog - HonorDeviceUtils: getAppInfoFromPkgName fail -> com.hihonor.quickgame
+10:01:46.330 INFO  GCLog - QuickGame: isSupportQuickGameQuery() is not support, versioncode:null
+10:01:51.689 INFO  GCLog - PowerKitManager: initPowerKitCompat init ,powerKitTag=5f232145-c5b0-4cfe-973b-54ad8fb4fc2e
+12:39:34.197 INFO  GCLog - PowerKitManager: initPowerKitCompat init ,powerKitTag=fc980540-1c28-4848-86b2-edd636960ef9
+14:15:25.433 INFO  GCLog - PowerKitManager: initPowerKitCompat init ,powerKitTag=5ac28cfc-7178-4e6d-84f2-55c8e275cc93
+14:15:25.549 INFO  GCLog - WifiStateChangeReceiver: WifiStateChangeReceiver:onReceive：false
+14:15:25.551 INFO  GCLog - WifiStateChangeReceiver: WifiStateChangeReceiver:action：android.net.wifi.WIFI_STATE_CHANGED
+14:15:25.552 INFO  GCLog - WifiStateChangeReceiver: WifiStateChangeReceiver: report
